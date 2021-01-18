@@ -1,3 +1,7 @@
+# Descrição
+
+Projeto criado a partir das video aulas do Criando um App com React, TypeScript, Hooks, Context e Forms
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
